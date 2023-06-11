@@ -3,9 +3,9 @@ import { getPosts, getPostLength } from "./theme/serverUtils";
 async function config() {
   return {
     lang: "en-US",
-    title: "H John Vogel",
+    title: "Composable Tokenized Coding System CTCS",
     href: "/about/Me",
-    description: "John Vogel",
+    description: "Tokenized Code - Small to Big Composable Modules - Bundles to Play to Learn - Up to Industrial Infrastructure as Code",
     head: [
       [
         "link",
@@ -18,7 +18,7 @@ async function config() {
         "meta",
         {
           name: "author",
-          content: "John Vogel",
+          content: "CTCS",
         },
       ],
       [
@@ -32,7 +32,7 @@ async function config() {
         "meta",
         {
           property: "og:description",
-          content: "Home of John Vogel",
+          content: "Home of CTCS",
         },
       ],
     ],

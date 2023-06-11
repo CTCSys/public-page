@@ -1052,7 +1052,7 @@
   optionalDependencies:
     "fsevents" "~2.3.2"
 
-"vitepress@^0.21.4":
+"vitepress@^0.21.6":
   "integrity" "sha512-OzwD2cTfvoK5VKV0UWSqu4XvUOz4vWFJ4Bdi0z8GoVkTFXkfmbFawEDVXAZwzu0Hn4/VLopgmEyooc91iGKFlg=="
   "resolved" "https://registry.npmjs.org/vitepress/-/vitepress-0.21.6.tgz"
   "version" "0.21.6"
