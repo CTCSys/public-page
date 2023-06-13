@@ -1,4 +1,4 @@
-### About CTCS
+### About CTCS (beta)
 
 __________
 
@@ -9,9 +9,9 @@ Coming soon
 
 ### Looking to connect ?
 
-[LinkedIn   ](https://ch.linkedin.com/in/dr-holger-vogel-769aa295)
+[LinkedIn Holger  ](https://ch.linkedin.com/in/dr-holger-vogel-769aa295)
 <span class="mr-4"></span>
-[LinkedIn   ](https://ch.linkedin.com/in/dr-holger-vogel-769aa295)
+[LinkedIn Chris](https://www.linkedin.com/in/christopher-johnson-mba-a3032055/)
 <span class="mr-4"></span>
 [   CTCS Github](https://github.com/CTCSys)
 
@@ -20,7 +20,7 @@ ________________
 
 #### Blog posts
  <!-- BLOG-POST-LIST:START -->
-[My Blog](https://www.ctcs.ch/posts/First.html)
+[CTCS Blog](https://www.ctcs.ch/posts/First.html)
 
 
 [July2023](https://www.ctcs.ch/posts/CTCS.html)

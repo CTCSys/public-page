@@ -3,7 +3,7 @@ import { getPosts, getPostLength } from "./theme/serverUtils";
 async function config() {
   return {
     lang: "en-US",
-    title: "Composable Tokenized Coding System CTCS",
+    title: "Composable Tokenized Coding System CTCS (beta)",
     href: "/about/Me",
     description: "Tokenized Code - Small to Big Composable Modules - Bundles to Play to Learn - Up to Industrial Infrastructure as Code",
     head: [

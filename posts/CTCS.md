@@ -1,6 +1,6 @@
 ---
 title: CTCS Composable Tokenized Code(Store, Shop, System)
-description: 
+description: beta
 date: 2023-06-20
 tags:
   - Build
