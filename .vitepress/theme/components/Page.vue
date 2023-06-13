@@ -2,29 +2,29 @@
   
    <div class="absolute bottom-0 flex p-3 bg-white ">
           <img class="object-cover object-center w-10 h-10 rounded-full"
-                      src="img0.jpg?compress=1&resize=1000x750&vertical=top"
+                      src="/img0.jpg?compress=1&resize=1000x750&vertical=top"
                       alt="">
    </div>
    
    <div class="absolute bottom-0 flex p-3 bg-white ">
           <img class="object-cover object-center w-10 h-10 rounded-full"
-                      src="img1.jpg?compress=1&resize=1000x750&vertical=top"
+                      src="/img1.jpg?compress=1&resize=1000x750&vertical=top"
                       alt="">
    </div>
 
       <div class="absolute bottom-0 flex p-3 bg-white ">
           <img class="object-cover object-center w-10 h-10 rounded-full"
-                      src="img2.jpg?compress=1&resize=1000x750&vertical=top"
+                      src="/img2.jpg?compress=1&resize=1000x750&vertical=top"
                       alt="">
    </div>
    
    <div class="absolute bottom-0 flex p-3 bg-white ">
           <img class="object-cover object-center w-10 h-10 rounded-full"
-                      src="img3.jpg?compress=1&resize=1000x750&vertical=top"
+                      src="/img3.jpg?compress=1&resize=1000x750&vertical=top"
                       alt="">
    </div>   <div class="absolute bottom-0 flex p-3 bg-white ">
           <img class="object-cover object-center w-10 h-10 rounded-full"
-                      src="img4.jpg?compress=1&resize=1000x750&vertical=top"
+                      src="/img4.jpg?compress=1&resize=1000x750&vertical=top"
                       alt="">
    </div>
    
