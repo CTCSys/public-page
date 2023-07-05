@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head><meta charset="utf-8"></head>
+  <body>
+    <script type="module">
+      import {load} from "https://croquet.io/webshowcase/v1.js";
+      load({
+        title: "My Web Showcase", 
+        showcase: "gallery", 
+        cards: [
+          // each item in cards array has a 'place' to specify the location in the art gallery
+          // 'type' is either "image", "pdf", or "video"
+          // 'path' specifies the location of the asset, either as full URL or as path relative to this html file
+          {place: 1, type: "image", path: "https://croquet.io/webshowcase/site/CompanyLogo.jpg"},
+          {place: 2, type: "pdf", path: "/CTCS.pdf"},
+          {place: 3, type: "video", path: "https://croquet.io/webshowcase/site/CustomerVideo.mp4", muted: true},
+          {place: 4, type: "image", path: "/Chris.jfif", urlLink: "https://www.linkedin.com/in/christopher-johnson-mba-a3032055"},
+          {place: 9, type: "image", path: "/Holger.jfif", urlLink: "https://ch.linkedin.com/in/dr-holger-vogel-769aa295"},
+          {place: 6, type: "image", path: "https://croquet.io/webshowcase/site/sunset-tree-on-hill-1.jpg"},
+          {place: 7, type: "image", path: "/img2.jpg"},
+          {place: 5, type: "image", path: "/img2.jpg"},
+          {place: 8, type: "image", path: "https://croquet.io/webshowcase/site/zen-garden-2.jpg"},
+        ],
+        privacy: "invite", // "public" or "invite"
+        voiceChat: true,
+        appId: "de.gmx.hjvogel.webshowcase",
+        apiKey: "145gdDL6z9rxt7p8qbu0y7PAuAMz8qcatrEGOMBt9",
+      });
+    </script>
+  </body>
+</html>

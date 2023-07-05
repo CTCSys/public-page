@@ -1,5 +1,7 @@
 <template>
-  
+   <div align="center">
+     <iframe width="640" height="360" src="/CTCS_MetaShow.html"></iframe>
+   </div>
    <div class="absolute bottom-0 flex p-3 bg-white ">
           <img class="object-cover object-center w-10 h-10 rounded-full"
                       src="/img0.jpg?compress=1&resize=1000x750&vertical=top"
